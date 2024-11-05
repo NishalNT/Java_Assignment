@@ -7,41 +7,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>EmployeeList</title>
-		<style type="text/css">
-			html,body{
-				height: 100%;
-				margin: 0;
-				display: flex;
-				justify-content: center;
-				align-items: center;
-				background-color: #A0DEFF;
-			}
-			.main{
-				background-color: white;
-				margin-left: auto;
-				margin-right: auto;
-				padding: 20px;
-				border-radius: 10px;
-				align-items: center;
-				display: flex;
-				flex-direction: column;
-			}
-			
-			h1{
-				display: flex;
-				justify-content: center;
-				color: #793FDF;
-			}	
-			table{
-				border-collapse: collapse;
-			}
-			tr, th, td{
-				border: 2px solid #793FDF;
-				padding: 5px;
-				align-items: center;
-				text-align: center;
-			}			
-		</style>
 	</head>
 	<body>
 		<div class="main">
